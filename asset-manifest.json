@@ -1,21 +1,22 @@
 {
   "files": {
     "main.css": "/static/css/main.16858ebc.css",
-    "main.js": "/static/js/main.fee06371.js",
+    "main.js": "/static/js/main.f8271c02.js",
     "static/js/453.5e4ca8e9.chunk.js": "/static/js/453.5e4ca8e9.chunk.js",
     "static/media/jumping-over.ogg": "/static/media/jumping-over.f9a6907541fb9a0517d9.ogg",
     "static/media/kashika.ogg": "/static/media/kashika.c8b15b76fe53872485df.ogg",
+    "static/media/88.ogg": "/static/media/88.7339250f134b5decae4b.ogg",
     "static/media/hover.gif": "/static/media/hover.88d69087f610a00b6f8e.gif",
     "static/media/header.jpg": "/static/media/header.6a3339366b58222514cd.jpg",
     "static/media/CinnamonCoffeCake.ttf": "/static/media/CinnamonCoffeCake.944ac0ee90aa735e6f65.ttf",
     "static/media/index.jpg": "/static/media/index.20bdda357e7572a95ee6.jpg",
     "index.html": "/index.html",
     "main.16858ebc.css.map": "/static/css/main.16858ebc.css.map",
-    "main.fee06371.js.map": "/static/js/main.fee06371.js.map",
+    "main.f8271c02.js.map": "/static/js/main.f8271c02.js.map",
     "453.5e4ca8e9.chunk.js.map": "/static/js/453.5e4ca8e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.16858ebc.css",
-    "static/js/main.fee06371.js"
+    "static/js/main.f8271c02.js"
   ]
 }
