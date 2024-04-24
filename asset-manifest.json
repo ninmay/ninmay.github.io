@@ -1,24 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.d7a9cdb7.css",
-    "main.js": "/static/js/main.86780e23.js",
+    "main.css": "/static/css/main.cd39d64f.css",
+    "main.js": "/static/js/main.0bbd0e95.js",
     "static/js/453.5e4ca8e9.chunk.js": "/static/js/453.5e4ca8e9.chunk.js",
+    "static/media/roki_encoded.mp4": "/static/media/roki_encoded.ae05c86c859b6ef55492.mp4",
     "static/media/jumping-over.mp3": "/static/media/jumping-over.9da5fe2ed647a0c3921b.mp3",
-    "static/media/background.jpg": "/static/media/background.4aa4f8447213eaaf2450.jpg",
+    "static/media/hoshi-tsunagu.mp3": "/static/media/hoshi-tsunagu.c924a9af70318ea0ad1a.mp3",
     "static/media/88.mp3": "/static/media/88.566d6045146101cfb65d.mp3",
     "static/media/yoru-wo-kure.mp3": "/static/media/yoru-wo-kure.fccff23b3ccab64c6542.mp3",
     "static/media/icedrop.mp3": "/static/media/icedrop.b761601ed42e442312f4.mp3",
+    "static/media/background.jpg": "/static/media/background.d014aaf80b27c092b862.jpg",
     "static/media/hover.gif": "/static/media/hover.88d69087f610a00b6f8e.gif",
     "static/media/header.jpg": "/static/media/header.6a3339366b58222514cd.jpg",
     "static/media/CinnamonCoffeCake.ttf": "/static/media/CinnamonCoffeCake.944ac0ee90aa735e6f65.ttf",
+    "static/media/ichika.jpg": "/static/media/ichika.1eb1677af9e03994cc5b.jpg",
     "static/media/index.jpg": "/static/media/index.20bdda357e7572a95ee6.jpg",
     "index.html": "/index.html",
-    "main.d7a9cdb7.css.map": "/static/css/main.d7a9cdb7.css.map",
-    "main.86780e23.js.map": "/static/js/main.86780e23.js.map",
+    "main.cd39d64f.css.map": "/static/css/main.cd39d64f.css.map",
+    "main.0bbd0e95.js.map": "/static/js/main.0bbd0e95.js.map",
     "453.5e4ca8e9.chunk.js.map": "/static/js/453.5e4ca8e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d7a9cdb7.css",
-    "static/js/main.86780e23.js"
+    "static/css/main.cd39d64f.css",
+    "static/js/main.0bbd0e95.js"
   ]
 }
