@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.73fa3232.css",
-    "main.js": "/static/js/main.de273a55.js",
+    "main.js": "/static/js/main.d7ce38b3.js",
     "static/js/453.5e4ca8e9.chunk.js": "/static/js/453.5e4ca8e9.chunk.js",
     "static/media/roki_encoded.mp4": "/static/media/roki_encoded.ae05c86c859b6ef55492.mp4",
     "static/media/odayakaNemuri.mp3": "/static/media/odayakaNemuri.f63d09fe9a3ebde70455.mp3",
@@ -26,17 +26,21 @@
     "static/media/background.jpg": "/static/media/background.d014aaf80b27c092b862.jpg",
     "static/media/hover.gif": "/static/media/hover.88d69087f610a00b6f8e.gif",
     "static/media/header.jpg": "/static/media/header.6a3339366b58222514cd.jpg",
-    "static/media/prosekai-profile.jpg": "/static/media/prosekai-profile.1dae4150e58526d05247.jpg",
+    "static/media/prosekai-profile.jpg": "/static/media/prosekai-profile.904f61d2765a0dfa7344.jpg",
     "static/media/CinnamonCoffeCake.ttf": "/static/media/CinnamonCoffeCake.944ac0ee90aa735e6f65.ttf",
+    "static/media/banner.jpg": "/static/media/banner.585be979f46445dd9482.jpg",
+    "static/media/difficulties.jpg": "/static/media/difficulties.4f009ca8c2faefe2d969.jpg",
+    "static/media/ranked.jpg": "/static/media/ranked.189ae5128e1c4ed21d67.jpg",
     "static/media/ichika.jpg": "/static/media/ichika.1eb1677af9e03994cc5b.jpg",
+    "static/media/tiering.jpg": "/static/media/tiering.2555e92b573743876930.jpg",
     "static/media/index.jpg": "/static/media/index.20bdda357e7572a95ee6.jpg",
     "index.html": "/index.html",
     "main.73fa3232.css.map": "/static/css/main.73fa3232.css.map",
-    "main.de273a55.js.map": "/static/js/main.de273a55.js.map",
+    "main.d7ce38b3.js.map": "/static/js/main.d7ce38b3.js.map",
     "453.5e4ca8e9.chunk.js.map": "/static/js/453.5e4ca8e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.73fa3232.css",
-    "static/js/main.de273a55.js"
+    "static/js/main.d7ce38b3.js"
   ]
 }
