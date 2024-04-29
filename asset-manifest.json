@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.291eaa6a.css",
-    "main.js": "/static/js/main.c3722880.js",
+    "main.js": "/static/js/main.3f1991fe.js",
     "static/js/453.5e4ca8e9.chunk.js": "/static/js/453.5e4ca8e9.chunk.js",
     "static/media/roki_encoded.mp4": "/static/media/roki_encoded.ae05c86c859b6ef55492.mp4",
     "static/media/Prosekai - Main Menu.mp3": "/static/media/Prosekai - Main Menu.96fdb92348a2acc12861.mp3",
@@ -16,19 +16,21 @@
     "static/media/difficulties.jpg": "/static/media/difficulties.4f009ca8c2faefe2d969.jpg",
     "static/media/ranked.jpg": "/static/media/ranked.189ae5128e1c4ed21d67.jpg",
     "static/media/ichika.jpg": "/static/media/ichika.1eb1677af9e03994cc5b.jpg",
+    "static/media/madder.jpg": "/static/media/madder.02f5d85751aad4fb64f9.jpg",
     "static/media/bitterchoco.jpg": "/static/media/bitterchoco.ab5382e91a191375e759.jpg",
     "static/media/tiering.jpg": "/static/media/tiering.2555e92b573743876930.jpg",
     "static/media/note-measures.jpg": "/static/media/note-measures.7153527dd6de9ec46c72.jpg",
+    "static/media/mad.jpg": "/static/media/mad.4e6eb43b61aa00fc6a15.jpg",
     "static/media/index.jpg": "/static/media/index.20bdda357e7572a95ee6.jpg",
     "static/media/middle-finger.jpg": "/static/media/middle-finger.d361bc7c1fa4e371096d.jpg",
     "static/media/soregashiawase.jpg": "/static/media/soregashiawase.8c82141459615168dd9e.jpg",
     "index.html": "/index.html",
     "main.291eaa6a.css.map": "/static/css/main.291eaa6a.css.map",
-    "main.c3722880.js.map": "/static/js/main.c3722880.js.map",
+    "main.3f1991fe.js.map": "/static/js/main.3f1991fe.js.map",
     "453.5e4ca8e9.chunk.js.map": "/static/js/453.5e4ca8e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.291eaa6a.css",
-    "static/js/main.c3722880.js"
+    "static/js/main.3f1991fe.js"
   ]
 }
